@@ -7,8 +7,9 @@
 }
 
 body {
-    height: 1920;
+    height: 1900;
     width: 1080;
+    overflow: hidden;
 }
 
 a {
@@ -34,13 +35,14 @@ a:visited {
     display: absolute;
 }
 
-.form {
+form {
     margin-top: 5vh;
     font-size: 2vh;
     letter-spacing: 3px;
+    height: 70vh;
 }
 
-.form h3 {
+form h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -79,55 +81,50 @@ a:visited {
     height: 6vh;
 }
 
-.forms {
+.name {
     margin-top: 3vh;
-    display: absolute;
-}
-
-#nome {
+    position: absolute;
+} .nc {
     width: 50vh;
     height: 5vh;
     border-radius: 20px;
     font-size: 15px;
+    padding: 0px 0px 0px 20px;
 }
 
-#nome::placeholder {
+
+.whatsapp {
+    margin-top: 10vh;
     position: absolute;
-    left: 20px;
-    
-}
-
-#whatsapp {
+} .zap {
     width: 50vh;
     height: 5vh;
     border-radius: 20px;
     font-size: 15px;
+    padding: 0px 0px 0px 20px;
 }
 
-#whatsapp::placeholder {
+
+.email {
+    margin-top: 17vh;
     position: absolute;
-    left: 20px;
-}
-
-#email {
+} .mail {
     width: 50vh;
     height: 5vh;
     border-radius: 20px;
     font-size: 15px;
+    padding: 0px 0px 0px 20px;
 }
 
-#email::placeholder {
-    position: absolute;
-    left: 20px;
-}
 
 .perform {
     margin-top: 3vh;
 }
 
-#clim {
+.clim {
+    margin-top: 23vh;
     height: 6vh;
-    width: 50.5vh;
+    width: 52.5vh;
     border-radius: 20px;
     background-color: rgb(3,57,108);
     color: white;
@@ -136,7 +133,7 @@ a:visited {
     cursor: pointer;
 }
 
-#clim:hover {
+.clim:hover {
     transition: 0.3s ease-in-out;
     background-color: rgb(100,151,177);
     color: black;
@@ -154,7 +151,7 @@ a:visited {
 .bg {
     margin-top: 6vh;
     background-color: rgb(3,57,108);
-    height: 100vh;
+    height: 5vh;
 }
 
 
