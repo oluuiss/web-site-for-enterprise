@@ -37,8 +37,8 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
       "properties": {},
       "geometry": {
         "coordinates": [
-          -50.2528560216422,
-          -20.284881110875375
+          -50.252871877698226,
+          -20.284902531981558
         ],
         "type": "Point"
       }
