@@ -38,7 +38,7 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
           -50.2528560216422,
           -20.284881110875375
         ],
-        "type": "Polygon"
+        "type": "Point"
       }
     }
   ]
