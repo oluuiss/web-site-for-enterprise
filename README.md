@@ -35,32 +35,10 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
       "properties": {},
       "geometry": {
         "coordinates": [
-          24.428050079815762,
-          -11.031537545344605
+          -50.2528560216422,
+          -20.284881110875375
         ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -50.25286051169704,
-          -20.28487814097757
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -50.252843701584,
-          -20.284896932303084
-        ],
-        "type": "Point"
+        "type": "Polygon"
       }
     }
   ]
