@@ -4,7 +4,7 @@
   
 <strong>Integrantes:</strong>
   
-Luis Porto - Eduardo Richter - Luigi Fileto
+[Luis Porto](https://github.com/oluuiss) - Eduardo Richter - Luigi Fileto
 
 </div>
 
