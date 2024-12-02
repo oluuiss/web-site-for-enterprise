@@ -42,5 +42,5 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
         "type": "Polygon"
       }
     }
-  ]
+  ],
 }
