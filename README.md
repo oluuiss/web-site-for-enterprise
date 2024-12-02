@@ -38,7 +38,7 @@ For the company, the data entered in the form is saved, ensuring that when the u
 
 > Example:
 
-|Nome|Telefone|E-mail|
+|Name|Phone|E-mail|
 |:---:|:---:|:---:| 
 |`Luis Gustavo da Silva Porto`|`(17) 99635-4275`|`luispyim@gmail.com`|
 |`Luigi Teixeira Fileto`|`(17) 98765-4321`|`luigifileto@gmail.com`|
