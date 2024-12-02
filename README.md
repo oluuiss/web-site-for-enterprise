@@ -1,5 +1,6 @@
 # Sobre
 <div class="about" align="center">
+<img src="images/unifev.png" title="Unifev" href="https://www.unifev.edu.br/" width="40px">
 <a class="unifev" href="https://www.unifev.edu.br/" title="Unifev">UNIFEV – CENTRO UNIVERSITÁRIO DE VOTUPORANGA ENGENHARIA DA COMPUTAÇÃO</a>
   
 <strong>Integrantes:</strong>
@@ -9,11 +10,13 @@
 </div>
 
 # Sumário
-01. [Introdução](#Introdução)
-00. [Objetivo](#Objetivo)
-00. [Aplicação](#Aplicação)
-00. [Resumo](#Resumo)
-00. [Localização](#Localização)
+- [Sobre](#sobre)
+- [Sumário](#sumário)
+- [Introdução](#introdução)
+- [Objetivo](#objetivo)
+- [Aplicação](#aplicação)
+- [Resumo](#resumo)
+- [Localização](#localização)
 
 <div class="project" align="justify">
 
