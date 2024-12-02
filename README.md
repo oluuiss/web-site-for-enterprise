@@ -28,18 +28,12 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
 
 ```geojson
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [ 20°17'05.6"S 50°15'10.4"W]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [20°17'05.6"S 50°15'10.4"W]
+  },
+  "properties": {
+    "name": "Dinagat Islands"
+  }
 }
