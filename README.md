@@ -44,6 +44,11 @@ For the company, the data entered in the form is saved, ensuring that when the u
 |`Luigi Teixeira Fileto`|`(17) 98765-4321`|`luigifileto@gmail.com`|
 |`Eduardo Lucas Brizola Richter`|`(17) 12345-6789`|`eduardorichter@gmail.com`|
 
+
+At the conclusion of the project, it was not possible to develop the website's responsiveness for other devices due to the limited delivery timeframe. However, the project was completed with a minimum resolution of 1080px, compatible with most monitors available on the market.
+
+The website was not published due to the lack of responsiveness and the financial costs required for the process, which could not be subsidized by the company.
+
 # Resume
 		The project aimed to develop a commercial website for the company Ampla Refrigeração.
 The website was developed using HTML, CSS, and JavaScript. There were some unforeseen challenges regarding the integration of the database due to time constraints during development. However, since the website's functionality does not depend on the database, we were able to implement it without impacting the project.
