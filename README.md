@@ -31,7 +31,7 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [20°17'05.6"S 50°15'10.4"W]
+    "coordinates": [20°17'05.6"S 50°15'10.4"W],
   },
   "properties": {
     "name": "Dinagat Islands"
