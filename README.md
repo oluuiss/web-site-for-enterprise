@@ -37,7 +37,7 @@ O foco do site foi a criação de uma interface em que o usuário realiza um reg
         "coordinates": [
           [
             [ 20°17'05.6"S 50°15'10.4"W]
-        ]
+        ],
         "type": "Polygon"
       }
     }
