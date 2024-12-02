@@ -2,7 +2,7 @@
 <div class="about" align="center">
 <a class="unifev" href="https://www.unifev.edu.br/" title="Unifev"><img src="images/unifev.png" width="400px"></a>
 
-<a class="unifev" href="https://www.unifev.edu.br/" title="Unifev">UNIFEV – CENTRO UNIVERSITÁRIO DE VOTUPORANGA ENGENHARIA DA COMPUTAÇÃO</a>
+<strong>UNIFEV – CENTRO UNIVERSITÁRIO DE VOTUPORANGA ENGENHARIA DA COMPUTAÇÃO</strong>
   
 <strong>Integrantes:</strong>
   
@@ -11,6 +11,7 @@
 </div>
 
 # Sumário
+01. [Sobre](#sobre)
 - [Sobre](#sobre)
 - [Sumário](#sumário)
 - [Introdução](#introdução)
