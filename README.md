@@ -1,6 +1,6 @@
 # Sobre
 <div class="about" align="center">
-<img src="images/unifev.png" title="Unifev" href="https://www.unifev.edu.br/" width="200px">
+<img src="images/unifev.png" title="Unifev" href="https://www.unifev.edu.br/" width="400px">
 
 <a class="unifev" href="https://www.unifev.edu.br/" title="Unifev">UNIFEV – CENTRO UNIVERSITÁRIO DE VOTUPORANGA ENGENHARIA DA COMPUTAÇÃO</a>
   
