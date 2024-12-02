@@ -26,6 +26,8 @@ Foi realizado a criação em Html, CCS e JavaScript, ouve alguns em imprevistos 
 O foco do site foi a criação de uma interface em que o usuário realiza um registro prévio, com nome completo, telefone e e-mail, direcionando o mesmo ao contato direto com a empresa para verificação de compra, orçamentos, duvidas e se necessário para a manutenção de produtos já adquiridos.
 </div>
 
+# Localização
+
 ```geojson
 {
   "type": "FeatureCollection",
