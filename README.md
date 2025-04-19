@@ -9,12 +9,6 @@
 
 </div>
 
-# 📋 Sumário
-01. [Introdução](#Introduçao)
-00. [Objetivo](#Objetivo)
-00. [Aplicação](#Aplicação)
-00. [Resumo](#Resumo)
-
 <div class="project" align="justify">
 
 # 📖 Introdução
