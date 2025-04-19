@@ -1,62 +1,54 @@
-# About
 <div class="about" align="center">
 <a class="unifev" href="https://www.unifev.edu.br/" title="Unifev"><img src="images/unifev.png" width="400px"></a>
 
 <strong>UNIFEV – CENTRO UNIVERSITÁRIO DE VOTUPORANGA ENGENHARIA DA COMPUTAÇÃO</strong>
   
-<strong>Members:</strong>
+<strong>Colaboradores:</strong>
   
 [Luis Porto](https://github.com/oluuiss) - Eduardo Richter - Luigi Fileto
 
 </div>
 
-# Summary
-01. [Introduction](#Introduction)
-00. [Objective](#Objective)
-00. [Application](#Application)
-00. [Resume](#Resume)
-00. [Location](#Location)
+# 📋 Sumário
+01. [Introdução](#Introduçao)
+00. [Objetivo](#Objetivo)
+00. [Aplicação](#Aplicação)
+00. [Resumo](#Resumo)
 
 <div class="project" align="justify">
 
-# Introduction
-Our project began when we started studying Computer Engineering at university. It focuses on supporting communities, businesses, schools, and the environment. This project aims to integrate the theory learned in classrooms with practical application, fostering teamwork and implementing concepts from various subjects studied.  
+# 📖 Introdução
+Esse projeto se iniciou no primeiro período do curso de Engenharia da Computação na universidade. Com esse projeto, buscamos colocar em prática tudo o que aprendemos nas aulas, trabalhando em equipe e aplicando conceitos de várias matérias que estudamos ao longo do  bimestre.
 
-The project was developed by three students for a local company: Ampla Refrigeração, located in [Fernandópolis - SP](#Location)
+# 📈 Objetivo
+O objetivo foi desenvolver uma aplicação prática que atendesse às necessidades da área escolhida. Nosso projeto teve como foco auxiliar uma empresa local por meio da criação de um site próprio, já que ela ainda não contava com essa ferramenta em seu estabelecimento.
 
-# Objective
-To implement a practical application that meets the needs of the chosen area. Our project focused on assisting a commercial company by creating its own website, as it did not have this tool available in its establishment.  
+O site tem como propósito oferecer à empresa a oportunidade de expandir sua marca e alcançar mais clientes, aproveitando a acessibilidade que a plataforma proporciona. Isso contribui para o aumento das vendas, fortalecendo o marketing e permitindo a exibição dos produtos da empresa aos usuários.
 
-Our website aims to provide the company with the opportunity to expand its brand and reach more customers through the accessibility it offers. This will help boost sales by leveraging marketing and showcasing the company's products to users.
+# 📌 Aplicação
+Desenvolvemos nosso projeto de forma remota, já que todos os integrantes do grupo estão envolvidos em atividades extracurriculares e não tinham tempo disponível suficiente para realizar uma apresentação formal ao responsável da empresa sobre o conceito que pretendíamos desenvolver. Apesar desses fatores, conseguimos executar o projeto de acordo com os padrões exigidos pela universidade.
 
-# Application
-We implemented our project remotely, as all group members are engaged in extracurricular work and did not have sufficient extra time to provide a formal presentation to the company's manager regarding the concept we aimed to develop. However, despite these factors, we managed to execute our project in a way that met the university's standards.
+Na aplicação, foi desenvolvida apenas a interface do site, juntamente com um formulário simples. Quando preenchido corretamente, o formulário redireciona o usuário para o WhatsApp da empresa com uma mensagem inicial de contato.
 
-In the application, only the website interface was developed along with a brief form. When correctly filled out, the form redirects the user to the company's WhatsApp with an initial inquiry message.
+Não implementamos bancos de dados. Porém, a ideia inicial era fazer com que os dados inseridos no formulário fossem salvos, garantindo que, ao enviar a mensagem, as informações de contato do usuário — como nome, telefone e e-mail — já estivessem registradas na empresa. Esse recurso facilita a comunicação entre a empresa e seus clientes, otimizando o atendimento e a gestão dos contatos.
 
-For the company, the data entered in the form is saved, ensuring that when the user sends a message, their contact information—such as name, phone number, and email—is already registered. This feature streamlines communication between the company and its clients, optimizing customer service and contact management.
+> Exemplo da ideia:
 
-> Example:
-
-|Name|Phone|E-mail|
+|Nome|Telefone|E-mail|
 |:---:|:---:|:---:| 
-|`Luis Gustavo da Silva Porto`|`(17) 99635-4275`|`luispyim@gmail.com`|
-|`Luigi Teixeira Fileto`|`(17) 98765-4321`|`luigifileto@gmail.com`|
-|`Eduardo Lucas Brizola Richter`|`(17) 12345-6789`|`eduardorichter@gmail.com`|
+|`Luis`|`(00) 12345-6789`|`exemplemail@gmail.com`|
+|`Luigi`|`(00) 12345-6789`|`exemplemail@gmail.com`|
+|`Eduardo`|`(00) 12345-6789`|`exemplemail@gmail.com`|
 
-
-At the conclusion of the project, it was not possible to develop the website's responsiveness for other devices due to the limited delivery timeframe. However, the project was completed with a minimum resolution of 1080px, compatible with most monitors available on the market.
-
-The website was not published due to the lack of responsiveness and the financial costs required for the process, which could not be subsidized by the company.
-
-# Resume
-		The project aimed to develop a commercial website for the company Ampla Refrigeração.
-The website was developed using HTML, CSS, and JavaScript. There were some unforeseen challenges regarding the integration of the database due to time constraints during development. However, since the website's functionality does not depend on the database, we were able to implement it without impacting the project.
-
-The main focus of the website was to create an interface where users can pre-register by providing their full name, phone number, and email. This registration directs them to direct contact with the company for purchase verification, quotes, inquiries, or, if necessary, the maintenance of previously purchased products.
+# 📃 Resumo
+```
+O projeto teve como objetivo desenvolver um site comercial para a empresa Ampla Refrigeração.
+```
+Na criação do site foi utilizado JavaScript e Desenvolvimento Web (HTML5 e CSS3). Não foi implementado banco de dados por ser um projeto simples sem nenhuma finalidade. Após o término do semestre, foi finalizado e não publicamos o site por ser apenas uma interface sem nenhum armazenamento de dados e responsividade.
 </div>
 
-# Location
+<!--
+# 📍 Localização da empresa
 
 ```geojson
 {
