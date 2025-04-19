@@ -12,6 +12,11 @@
 <div class="project" align="justify">
 
 # 📖 Introdução
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="20"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20"></a>
+
 Esse projeto se iniciou no primeiro período do curso de Engenharia da Computação na universidade. Com esse projeto, buscamos colocar em prática tudo o que aprendemos nas aulas, trabalhando em equipe e aplicando conceitos de várias matérias que estudamos ao longo do  bimestre.
 
 # 📈 Objetivo
